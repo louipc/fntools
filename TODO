@@ -1,0 +1,14 @@
+TODO
+==========
+
+Port:
+    aba: https://github.com/corbanworks/fng-aba-tools
+    cc: https://github.com/corbanworks/fng-credit-card-validator
+    nino: https://github.com/corbanworks/fng-nino-tools
+    ssn: https://github.com/corbanworks/fng-ssn-tools
+
+ - Libification
+ - Implement generating vanity sin numbers.
+   Being able to specify certain numbers in sequence.
+ - Fake name generator http://www.fakenamegenerator.com/
+ - Batch generation?
